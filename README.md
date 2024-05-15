@@ -2,7 +2,7 @@
 
 Meu nome é Manoela 
 
-- Estou estudando na Alura 
+- Estou estudando na [Alura](https://www.alura.com.br) 
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaaço para minha organização e compartilhamento dos projetos desnevolvidos
 
@@ -12,4 +12,4 @@ Meu nome é Manoela
 
   @manufavaron_
 
-  https://media1.tenor.com/m/5NTrd7G95KYAAAAC/runa-shirakawa-kimizero.gif
+![](https://media1.tenor.com/m/YFz8g6pLK58AAAAC/brave-merida.gif)
